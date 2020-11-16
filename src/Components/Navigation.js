@@ -7,7 +7,6 @@ function Navigation() {
     <div className="navbar">
       <div className="nav-links">
         <Link to="/users">Users</Link>
-        <Link to="/repos">Your Repository</Link>
       </div>
     </div>
   );
